@@ -32,6 +32,7 @@ Route::get('/', 'HomeController@index')->name('welcome');
 //Route::resource('dashboard', 'DashboardController')->middleware('auth');
 
 
+
 //Namespace Admin you don't need to put Admin in front of controller
 //Prefix start admin to the start of the URL you don't need to include it anymore
 //Name add admin. into ours routes so we don't need to pass it anymore

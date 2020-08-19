@@ -1,5 +1,10 @@
 @import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap);@charset "UTF-8";
 
+.logo img {
+  width: 250px;
+  height: auto;
+}
+
 .card-header {
   color: #276FBF;
   font: 20px "Montserrat", sans-serif;
